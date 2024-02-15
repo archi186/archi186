@@ -6,6 +6,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - ProductStar
+- opa
 
 <!---
 archi186/archi186 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
